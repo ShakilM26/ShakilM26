@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShakilM26
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Power BI.
+- 🌱 I’m currently learning Database.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
