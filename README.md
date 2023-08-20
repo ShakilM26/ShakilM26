@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShakilM26
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Tableau.
+- 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...shakilkabir.h@gmail.com
 
