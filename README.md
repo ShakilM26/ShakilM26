@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst
 ------------
 
-Very interested to work in data field.
+Very interested to work in data field. So far I have worked with Python libraries Pandas, NumPy, Matplotlib, Seaborn. Worked more on Power BI than Tableau. Performed statistical analysis, data analysis in Excel. Experience in data analysis with MySQL, PostgreSQL as well.
 
 * 🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [shakilkabir.h@gmail.com](mailto:shakilkabir.h@gmail.com)
