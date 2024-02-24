@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hasnat Kabir Shakil</h1>
 <h3 align="center">I am a Learner, and Data Analyst, from Bangladesh</h3>
 
-- 🌱 I’m currently learning **JavaScript, Data Science, ML**
+- 🌱 I’m currently learning **ML**
 
 - 👯 I’m open to collaborating on **Data Analysis projects**
 
