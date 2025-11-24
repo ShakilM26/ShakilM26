@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **shakilkabir.h@gmail.com**
 
-- ⚡ Fun fact **I have a cat named Tommy**
+- ⚡ Fun fact **I have a cat named Tommy (he died in 2024)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
