@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Hasnat Kabir Shakil</h1>
 <h3 align="center">I am a Learner, and Data Analyst, from Bangladesh</h3>
 
-- 🌱 I’m currently learning **ML**
+- 🌱 I’m currently learning **react**
 
 - 👯 I’m open to collaborating on **Data Analysis projects**
 
 - 📫 How to reach me **shakilkabir.h@gmail.com**
 
-- ⚡ Fun fact **I have a cat named Tommy (he died in 2024)**
+- ⚡ Fact:0 **I have a cat named Tommy (he died in 2024)**
+- ⚡ Fact:1 **There's a new person in the house.(Badsha | He likes comfort and luxury 😁)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
