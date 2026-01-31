@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasnat Kabir Shakil</h1>
-<h3 align="center">I am a Learner, and Data Analyst, from Bangladesh</h3>
+<h3 align="center">I am a Learner from Bangladesh</h3>
 
 - 🌱 I’m currently learning **react**
 
